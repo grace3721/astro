@@ -1,21 +1,4 @@
-import streamlit as st
 
-st.title("나의 첫 Streamlit 앱")
-
-st.header("Streamlit에 오신 것을 환영합니다!")
-
-st.write("이것은 간단한 텍스트입니다.")
-
-st.success("성공적으로 앱이 실행되었습니다! 🎉")
-
-1차시
-🩷 기본 앱 제작해보기
-
-1.  github 열기
-
-2. new 버튼 -> astro -> main.py
-
-3. 다음 코드를 github에 입력해보세요.
 
 import streamlit as st
 
