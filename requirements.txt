@@ -1,5 +1,5 @@
 streamlit
-astrogy
+astropy
 numpy
 pillow
 notplotlib
